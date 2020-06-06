@@ -1,1 +1,2 @@
-Lizenz ist in Readme
+Das ist meine erste Datei auf Git-Hub.
+
