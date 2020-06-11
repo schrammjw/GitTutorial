@@ -1,2 +1,0 @@
-Das ist das Temp-File 002
-Kreiert auf dem neuen Branch
