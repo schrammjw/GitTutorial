@@ -1,7 +1,9 @@
 # Das ist die Readme Datei für das Git-Tutorial.
 
-Änderung im Branch "BRANCH_NAME"
+Das ist ein Text für Git Extensions 
 
+
+Änderung im Branch "BRANCH_NAME"
 Das ist eine Änderung.
 
 # This is an <h1> tag
